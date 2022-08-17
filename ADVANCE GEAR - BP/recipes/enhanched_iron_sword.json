@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "dafinchi:enhanched_iron_sword_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " X ",
+      " X ",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "dafinchi:enhanched_iron"
+      }
+    },
+    "result": {
+      "item": "dafinchi:enhanched_iron_sword"
+    }
+  }
+}

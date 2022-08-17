@@ -1,0 +1,12 @@
+give @s dafinchi:arit_dmd
+give @s dafinchi:arit_emerald
+give @s dafinchi:arit
+give @s dafinchi:emerald_sword
+give @s dafinchi:enhanched_iron_sword
+give @s dafinchi:enhanched_iron
+give @s dafinchi:pisau_dmd
+give @s dafinchi:pisau_emerald
+give @s dafinchi:pisau
+give @s dafinchi:polished_diamond_sword
+give @s dafinchi:polished_diamond
+give @s dafinchi:sp_sword

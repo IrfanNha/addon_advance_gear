@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "dafinchi:pisau_dmd_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " X ",
+      "#  "
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:stick"
+      },
+      "X": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "dafinchi:pisau_dmd"
+    }
+  }
+}

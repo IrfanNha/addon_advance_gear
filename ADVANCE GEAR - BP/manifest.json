@@ -1,0 +1,36 @@
+{
+  "dependencies": [
+    {
+      "uuid": "78be9e16-d313-4e89-b8e6-2ac7089f2e32",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "format_version": 1,
+  "header": {
+    "description": "ADVANCE GEAR, Addon by dafinchi (irfan)",
+    "name": "ADVANCE GEAR",
+    "platform_locked": false,
+    "uuid": "d6096bd8-4c70-4366-a4ab-ae99846251c1",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "Berisi beberapa item peralatan pendukung tambahan",
+      "type": "data",
+      "uuid": "72ae2483-1182-47e9-b479-a979c43b07c5",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}

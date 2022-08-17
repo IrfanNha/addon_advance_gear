@@ -1,0 +1,63 @@
+{
+    "format_version": "1.16.100",
+    "minecraft:item": {
+      "description": {
+        "category": "equipment",
+        "identifier": "dafinchi:polished_diamond_sword"
+      },
+      "components": {
+        "minecraft:creative_category": {
+          "parent": "itemGroup.name.sword"
+        },
+        "minecraft:max_stack_size": 1,
+        "minecraft:use_duration": 1861,
+        "minecraft:hand_equipped": true,
+        "minecraft:allow_off_hand": true,
+        "minecraft:durability": {
+          "max_durability": 1861,
+          "damage_chance": {
+            "min": 2,
+            "max": 3
+          }
+  
+        },
+        "minecraft:repairable": {
+          "repair_items": [
+            {
+              "items": [
+                "dafinchi:polished_diamond"
+              ],
+              "repair_amount": 1
+            }
+          ]
+        },
+        "minecraft:mining_speed": 1.5,
+        "minecraft:damage": 7,
+        "minecraft:enchantable": {
+          "value": 15,
+          "slot": "sword"
+        },
+        "minecraft:can_destroy_in_creative": false,
+        "minecraft:digger": {
+          "use_efficiency": true,
+          "destroy_speeds": [
+            {
+              "block": "minecraft:web",
+              "speed": 12
+            },
+            {
+              "block": "minecraft:bamboo",
+              "speed": 8
+            }
+          ]
+        },
+        "tag:minecraft:is_sword": {},
+        "minecraft:icon": {
+          "texture": "polished_diamond_sword"
+        },
+        "minecraft:display_name": {
+          "value": "item.dafinchi:polished_diamond_sword.name"
+        }
+      }
+    }
+  }

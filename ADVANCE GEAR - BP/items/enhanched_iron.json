@@ -1,0 +1,25 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:item": {
+    "description": {
+      "category": "items",
+      "identifier": "dafinchi:enhanched_iron"
+    },
+    "components": {
+      "minecraft:creative_category": {
+      },
+      "minecraft:max_stack_size": 64,
+      "minecraft:hand_equipped": true,
+      "minecraft:allow_off_hand": true,
+      "minecraft:mining_speed": 1.5,
+      "minecraft:damage": 1,
+      "minecraft:can_destroy_in_creative": false,
+      "minecraft:icon": {
+        "texture": "enhanched_iron"
+      },
+      "minecraft:display_name": {
+        "value": "item.dafinchi:enhanched_iron.name"
+      }
+    }
+  }
+}

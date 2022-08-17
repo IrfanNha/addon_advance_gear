@@ -1,0 +1,25 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "dafinchi:polished_diamond_recipe"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "X#"
+    ],
+    "key": {
+      "#": {
+        "item": "minecraft:diamond"
+      },
+      "X": {
+        "item": "minecraft:honeycomb"
+      }
+    },
+    "result": {
+      "item": "dafinchi:polished_diamond"
+    }
+  }
+}
